@@ -1,5 +1,6 @@
 'use strict';
 
+
 /*
 ///////////////////////////////////////
 // Activating Strict Mode
