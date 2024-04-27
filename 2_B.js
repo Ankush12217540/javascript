@@ -5,7 +5,7 @@ function logger() {
   }
   
   // calling / running / invoking function
-  logger();
+  logger(); 
   logger();
   logger();
   
