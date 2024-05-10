@@ -11,7 +11,7 @@ console.log(!hasDriversLicense);
 // if (hasDriversLicense && hasGoodVision) {
 //   console.log('Sarah is able to drive!');  
 // } else {
-//   console.log('Someone else should drive...');  
+//   console.log('Someone else should drive...');   
 // }
 
 const isTired = false; // C
