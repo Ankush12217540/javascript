@@ -1,4 +1,4 @@
-
+k ko
 // Functions
 function logger() {
     console.log('My name is Jonas');
@@ -40,5 +40,5 @@ function logger() {
   
   console.log(age1, age2);
   
-  
+   
   ///////////////////////////////////////
